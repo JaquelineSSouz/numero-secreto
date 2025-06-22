@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Documentos/Alura desafios/desafio-js-projeto_inicial/logica-js-projeto_inicial"
+		},
+		{
+			"path": "../../Documentos/Programação.02/js-curso-2-aula1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js-curso-2-aula1"
+	}
+}
